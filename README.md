@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alex-V-Kovalev
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring Framework
 
 <!---
 Alex-V-Kovalev/Alex-V-Kovalev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
